@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj": {}
+    "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj": {
+    "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj",
         "projectName": "CustomerReader.Tests",
-        "projectPath": "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj",
+        "projectPath": "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj",
         "packagesPath": "C:\\Users\\Lenny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj": {
-                "projectPath": "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj"
+              "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj": {
+                "projectPath": "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj"
               }
             }
           }
@@ -71,12 +71,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -86,11 +80,11 @@
         }
       }
     },
-    "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj": {
+    "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj",
+        "projectUniqueName": "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj",
         "projectName": "CustomerReader",
-        "projectPath": "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj"
+        "projectPath": "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader\\CustomerReader.csproj"
       },
       "frameworks": {
         "net472": {}

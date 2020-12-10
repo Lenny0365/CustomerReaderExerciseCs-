@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQO2GE6JwNRtWUDDW5aiEoyG4M9M8Fy/RMms+0n5yTc41RsDL7BWEmkWkUOcfnSrBLJEVGQg1vwwyXji3iVZIw==",
+  "dgSpecHash": "KoJh7/bf3alvNXyx/DZJohdQP27MCYWJSYX9A9aNwyjouoXtX9jxwwRQ5dTJeXW3FEOLTwLorU700+DTLmimdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenny\\Source\\Repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Lenny\\source\\repos\\CustomerReaderExerciseCs\\CustomerReader.Tests\\CustomerReader.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenny\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Lenny\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -66,8 +66,7 @@
     "C:\\Users\\Lenny\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\Lenny\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Lenny\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\Lenny\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Lenny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\Lenny\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

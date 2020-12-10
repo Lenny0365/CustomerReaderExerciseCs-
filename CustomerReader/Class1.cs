@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CustomerReader.Helpers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,7 +29,17 @@ namespace CustomerReader
             if(this.CustomerAddress == null)
                 this.CustomerAddress = new Address();
         }
-        public string Email { get; set; }
+
+        private string _Email;
+                
+        public string Email
+        {
+            get { return _Email; }
+            set 
+            {
+                _Email = ValidationHelper.ValidateEmail(value); 
+            }
+        }
         
         private string _phone;
 

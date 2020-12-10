@@ -1,0 +1,3 @@
+C:\Users\Lenny\source\repos\CustomerReaderExerciseCs\CustomerReader.Tests\obj\Release\netcoreapp3.1\CustomerReader.Tests.AssemblyInfoInputs.cache
+C:\Users\Lenny\source\repos\CustomerReaderExerciseCs\CustomerReader.Tests\obj\Release\netcoreapp3.1\CustomerReader.Tests.AssemblyInfo.cs
+C:\Users\Lenny\source\repos\CustomerReaderExerciseCs\CustomerReader.Tests\obj\Release\netcoreapp3.1\CustomerReader.Tests.csproj.CoreCompileInputs.cache

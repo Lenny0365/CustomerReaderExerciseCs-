@@ -14,3 +14,4 @@
 
  8) Added string extention to Uppercase first character of the word.
  9) Removed [Console.WriteLine("\nCurrent Element :" + nNode.Name);] debug output in readCustomersXml method.
+ 10) Added ValidationHelper class with ValidateEmail method.
